@@ -1,5 +1,4 @@
 # potfolia
-This is the portfolia repository.
 [Task-1)
 (<!DOCTYPE html>
 <html>
